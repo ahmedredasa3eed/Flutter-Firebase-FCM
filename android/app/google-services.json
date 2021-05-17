@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487644807656",
+    "project_id": "fcmfinal-283c8",
+    "storage_bucket": "fcmfinal-283c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487644807656:android:809fed5dcaa210a7afa45d",
+        "android_client_info": {
+          "package_name": "com.ahmedreda.fcmahmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487644807656-5u229a8co9ikcgg2h6ko0a10ou27g2j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc_uzztkb-rrBSI_yXu7hE9xcHPsZ938"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487644807656-5u229a8co9ikcgg2h6ko0a10ou27g2j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

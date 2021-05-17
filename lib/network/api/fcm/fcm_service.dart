@@ -24,8 +24,8 @@ class FCMServices {
               "priority" : "high"
             },
             "data" : {
-              "body" : "!ملك ملوك BUC ",
-              "title" : "العب يا تعلب",
+              "body" : "!ملك ملوك  مصر ",
+              "title" : "العب يا تعلب احمد رضا",
               "content_available" : true,
               "priority" : "high",
               "click_action": "FLUTTER_NOTIFICATION_CLICK",
